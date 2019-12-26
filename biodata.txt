@@ -1,3 +1,4 @@
-NO.REG	: 1820010056
-Nama 	: Dinda Mulvia
-Jurusan : Teknik Informatika
+NO.REG	 : 1820010056
+Nama 	 : Dinda Mulvia
+Jurusan  : Teknik Informatika
+Angkatan : 2018
